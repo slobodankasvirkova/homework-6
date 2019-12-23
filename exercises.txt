@@ -1,0 +1,8 @@
+HTML Homework 4 Exercises
+
+1.Create a Section like on exercise-1.jpg
+
+2.Create a Section like on exercise-2.png
+
+
+Use CSS Classes in CSS. Use Font Awesome for Icons https://fontawesome.com/v4.7.0/
